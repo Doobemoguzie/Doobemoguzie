@@ -1,64 +1,44 @@
-## Hi there 👋
-
 # 👋 Hey there, I'm Doobem!
 
-Aspiring **Data Analyst** with a sharp eye for uncovering insights from raw data and a passion for transforming numbers into real-world impact. I specialize in breaking down messy datasets into clear visual stories that drive smart decisions 💡📊
+**Aspiring Data Analyst** | Passionate about turning raw data into clear insights 📊  
+Currently building my data portfolio using **SQL**, **Power BI**, and **Python**  
+Focused on real-world problems, clean visuals, and data storytelling 🎯
 
 ---
 
-## 🚀 What I'm Working On
-
-- 🏠 **Housing Market Analysis** – Using SQL to spot undervalued and overpriced properties
-- 📈 **Sales Performance Dashboard** – Built in Power BI to help execs track trends and performance
-- 💡 Always learning — currently diving deeper into **advanced SQL**, **Power BI DAX**, and **business storytelling**
-
----
-
-## 🧠 What I Love Doing
-
-- 🔎 Asking the right business questions
-- 🛠️ Cleaning and wrangling messy data
-- 🧮 Writing SQL queries that solve real problems
-- 📊 Creating dashboards that *speak for themselves*
-- 🗣️ Telling compelling data-driven stories
+## 🔧 Tools & Skills
+- 🛢️ **SQL** — For digging deep into data
+- 📈 **Power BI** — Building sleek dashboards and visuals
+- 🐍 **Python** — For data wrangling and EDA
+- 🧹 **Power Query** — Transforming messy data into magic
+- 📊 **Data Storytelling** — Because insights ≠ just numbers
 
 ---
 
-## 🛠️ My Data Toolbox
+## 📁 Featured Projects
 
-| Tool        | Usage                             |
-|-------------|-----------------------------------|
-| **SQL**     | Querying, joining, filtering data |
-| **Power BI**| Interactive dashboards & DAX      |
-| **Excel**   | Quick analysis, pivot tables      |
-| **Python**  | Data cleaning, EDA (pandas, matplotlib) |
-| **Notion**  | Portfolio & project documentation |
+🚧 **Coming Soon** — I'm currently working on 🔥:
+- 🏡 **Housing Price Analysis** with SQL + Power BI
+- 🛍️ **Superstore Sales Dashboard** built in Power BI
+- 📉 **Overpriced Property Detection** using pricing data and logic
 
----
-
-## 📌 Featured Projects
-
-Here are some projects I'm proud of — each one tells a different story 🎯
-
-
-- 📊 **[Superstore Sales Dashboard](#)**  
-  *Power BI → Tracks sales trends, profit by region, and customer behavior*
-
-- 🔍 **[Neighborhood Trends Insight](#)**  
-  *Identifies areas with growth or decline in value for smarter decisions*
+I'll be uploading detailed projects with insights, visuals, and write-ups. Stay tuned! 💡
 
 ---
 
-## 📫 Let's Connect
-
-- 🌐 [LinkedIn](https://www.linkedin.com/in/prosper-oguzie-54a706336)  
-- 📘 [Notion Portfolio](https://www.notion.so/yourportfolio)  
-- 📧 Email: prosperoguzie379@gmail.com
+## 🚀 What I'm Up To
+- Building a **portfolio of real-world data projects**
+- Practicing **SQL problem-solving**
+- Learning how to think like an analyst 🧠
+- Writing insights that actually matter to businesses 💬
 
 ---
 
-### 🔥 Motto I Work By:
+## 📫 Let's Connect!
+- 💼 [LinkedIn](https://www.linkedin.com/in/prosper-oguzie-54a706336) *(replace this with your real link)*
+- ✉️ Email: Prosperoguzie379@gmail.com *(replace this too)*  
+- 🔍 Always open to collaboration, feedback, or mentorship
 
-> "**Don’t just show data — explain why it matters.**"
+---
 
-Thanks for stopping by! Let’s turn data into impact 🚀
+> 🎯 *“Data is only useful if it tells a story — I'm here to help it speak.”*
