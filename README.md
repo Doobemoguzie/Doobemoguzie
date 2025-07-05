@@ -35,8 +35,8 @@ I'll be uploading detailed projects with insights, visuals, and write-ups. Stay 
 ---
 
 ## 📫 Let's Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/prosper-oguzie-54a706336) *(replace this with your real link)*
-- ✉️ Email: Prosperoguzie379@gmail.com *(replace this too)*  
+- 💼 [LinkedIn](https://www.linkedin.com/in/prosper-oguzie-54a706336) 
+- ✉️ Email: Prosperoguzie379@gmail.com 
 - 🔍 Always open to collaboration, feedback, or mentorship
 
 ---
