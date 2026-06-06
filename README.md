@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Doobem!
 
-**Aspiring Data Analyst** | Passionate about turning raw data into clear insights 📊  
+**Data Analyst** | Passionate about turning raw data into clear insights 📊  
 Currently building my data portfolio using **SQL**, **Power BI**, and **Python**  
 Focused on real-world problems, clean visuals, and data storytelling 🎯
 
